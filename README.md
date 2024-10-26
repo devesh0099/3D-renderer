@@ -1,2 +1,4 @@
 # 3D-renderer
-A 3D path tracer implemented in C++
+A 3D path tracer implemented in C++ very basic version 
+
+
